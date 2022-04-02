@@ -1,0 +1,4 @@
+com\goodBrowserGames\controller\GoodBrowserGamesController.class
+com\goodBrowserGames\GoodBrowserGamesApplication.class
+com\goodBrowserGames\entity\GoodBrowserGamesEntity.class
+com\goodBrowserGames\repository\GoodBrowserGamesRepository.class
